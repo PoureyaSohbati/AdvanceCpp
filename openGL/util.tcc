@@ -1,7 +1,3 @@
-// $Id: util.tcc,v 1.5 2015-02-19 16:48:00-08 - - $
-// Partner: Poureya Sohbati (psohbati@ucsc.edu)
-// Partner: Kaveh Daryabeygi (kdaryabe@ucsc.edu)
-
 template <typename item_t>
 ostream& operator<< (ostream& out, const vector<item_t>& vec) {
    bool want_space = false;

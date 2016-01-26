@@ -1,7 +1,3 @@
-// $Id: listmap.tcc,v 1.7 2015-04-28 19:22:02-07 - - $
-// Partner: Poureya Sohbati (psohbati@ucsc.edu)
-// Partner: Kaveh Daryabeygi (kdaryabe@ucsc.edu)
-
 #include "listmap.h"
 #include "trace.h"
 

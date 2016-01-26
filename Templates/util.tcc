@@ -1,7 +1,3 @@
-// $Id: util.tcc,v 1.3 2014-06-27 17:49:07-07 - - $
-// Partner: Poureya Sohbati (psohbati@ucsc.edu)
-// Partner: Kaveh Daryabeygi (kdaryabe@ucsc.edu)
-
 #include <sstream>
 #include <typeinfo>
 using namespace std;
